@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-o1amp1.1casino.co.nz/sitemap.xml
